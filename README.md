@@ -1,0 +1,2 @@
+# seaside-html
+html
